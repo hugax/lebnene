@@ -58,6 +58,10 @@
 | dekkangé | épicier
 | siyyara | voiture
 | 3asal | miel
+| 7ob | amour
+| mot | mort
+| mart | femme
+| séné | année
 |=======================
 
 == Adjectifs
@@ -79,16 +83,41 @@
 | D3if | faible/maigre 
 | nâsi7 | gros
 | Sari3 | rapide
+| Tayyib | bon
 |=======================
+
+== Comparatifs
+
+|==============================
+| a7san | mieux | mni7 | bien
+| 2a2al | moins | 2alil | peu
+| atyab | meilleur | tayyib | bien 
+|==============================
+
 
 == Verbes
 
-lalala
+lolo
 
-== Phrases
+== Mots indispensables
+
+|===================
+| é | oui
+| la2 | non
+| wen | où?
+| min | qui?
+| 3afwan/sorry | pardon
+| bass | arrête/lorsque/mais
+| 7asab | ça dépend
+| aymtin | quand?, utilisé dans une question
+| lamma | lorsque,quand - Utilisé dans une phrase, je me rappelle quand j'étais petit
+|===================
+
+== Phrases et mots utiles
 
 |=======================
 | ma ba2a baddé | je ne veux plus
+| té2riban | à peu près
 |=======================
 
 
